@@ -1,5 +1,5 @@
 # Cmodify
-Cmodify is a modified ClassiCube client.
+Cmodify is a modified ClassiCube client that is now abandoned. Fuckin' hell.
 
 # License
 ﻿Copyright (c) 2014 - 2020, UnknownShadow200
